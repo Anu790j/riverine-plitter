@@ -1,0 +1,5 @@
+opencv-python
+pandas
+exif
+gpxpy
+torch

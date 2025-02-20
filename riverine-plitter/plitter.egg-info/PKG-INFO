@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: plitter
+Version: 0.1.0
+Summary: plastic litter detection tool
+Home-page: https://github.com/gicait/pLitter
+Author: GIC@AIT
+Author-email: sriram@ait.ac.th
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: 
+Classifier: Operating System :: Linux
+Description-Content-Type: text/markdown
+Requires-Dist: opencv-python
+Requires-Dist: pandas
+Requires-Dist: exif
+Requires-Dist: gpxpy
+Requires-Dist: torch

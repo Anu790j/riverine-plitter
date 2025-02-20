@@ -1,0 +1,10 @@
+setup.py
+plitter/__init__.py
+plitter/detector.py
+plitter/spatial.py
+plitter/stationCam.py
+plitter.egg-info/PKG-INFO
+plitter.egg-info/SOURCES.txt
+plitter.egg-info/dependency_links.txt
+plitter.egg-info/requires.txt
+plitter.egg-info/top_level.txt
